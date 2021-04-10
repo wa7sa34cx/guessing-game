@@ -1,5 +1,5 @@
 [package]
-authors = ["Alex Black <wa7sa34cx@gmail.com>"]
+authors = ["Alex Black <wa7@sa34.cx>"]
 edition = "2018"
 name = "guessing_game"
 version = "0.1.0"
